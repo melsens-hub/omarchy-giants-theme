@@ -11,7 +11,7 @@ This is for the original creators who made foundational contributions to compute
 
 ## Wallpapers
 
-Ten portraits of the giants everything since was built on, drawn as ink on
+Eleven portraits of the giants everything since was built on, drawn as ink on
 aged paper with technical diagrams of their contributions. Click any one for the
 full 6144×4096 wallpaper.
 
@@ -21,6 +21,7 @@ full 6144×4096 wallpaper.
 <tr><td width="50%" align="center"><a href="backgrounds/5-tony-hoare.jpg"><img src="thumbnails/5-tony-hoare.jpg" alt="C. A. R. Hoare"></a><br><strong>C. A. R. Hoare</strong><br><sub>program verification and Hoare logic</sub></td><td width="50%" align="center"><a href="backgrounds/6-donald-knuth.jpg"><img src="thumbnails/6-donald-knuth.jpg" alt="Donald Knuth"></a><br><strong>Donald Knuth</strong><br><sub>algorithms, TeX, and technical publishing</sub></td></tr>
 <tr><td width="50%" align="center"><a href="backgrounds/7-ken-thompson.jpg"><img src="thumbnails/7-ken-thompson.jpg" alt="Ken Thompson"></a><br><strong>Ken Thompson</strong><br><sub>Unix and operating systems</sub></td><td width="50%" align="center"><a href="backgrounds/8-dennis-ritchie.jpg"><img src="thumbnails/8-dennis-ritchie.jpg" alt="Dennis Ritchie"></a><br><strong>Dennis Ritchie</strong><br><sub>C and Unix</sub></td></tr>
 <tr><td width="50%" align="center"><a href="backgrounds/9-barbara-liskov.jpg"><img src="thumbnails/9-barbara-liskov.jpg" alt="Barbara Liskov"></a><br><strong>Barbara Liskov</strong><br><sub>data abstraction and distributed systems</sub></td><td width="50%" align="center"><a href="backgrounds/10-adleman-rivest-shamir.jpg"><img src="thumbnails/10-adleman-rivest-shamir.jpg" alt="Adleman · Rivest · Shamir"></a><br><strong>Adleman · Rivest · Shamir</strong><br><sub>RSA public-key cryptography</sub></td></tr>
+<tr><td width="50%" align="center"><a href="backgrounds/11-bjarne-stroustrup.jpg"><img src="thumbnails/11-bjarne-stroustrup.jpg" alt="Bjarne Stroustrup"></a><br><strong>Bjarne Stroustrup</strong><br><sub>C++, Bell Labs, and zero-overhead abstraction</sub></td><td width="50%"></td></tr>
 </table>
 
 Research notes, source portrait credits, licenses, and generation details are in
