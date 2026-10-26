@@ -1,6 +1,6 @@
 # Giants wallpaper research and credits
 
-The nine additional wallpapers are generated reinterpretations in the style
+The ten additional wallpapers are generated reinterpretations in the style
 of the original Turing–von Neumann wallpaper. Each source portrait below was
 selected from Wikimedia Commons because it is public domain or published under
 a Creative Commons license. The source portrait was used as an identity
@@ -21,6 +21,7 @@ remain exact and legible.
 | Dennis Ritchie | Created C and co-developed Unix with Ken Thompson; both remain foundational to systems software. | [8-dennis-ritchie.jpg](backgrounds/8-dennis-ritchie.jpg) |
 | Barbara Liskov | Pioneered data abstraction in CLU and advanced distributed computing through Argus and later systems research. | [9-barbara-liskov.jpg](backgrounds/9-barbara-liskov.jpg) |
 | Leonard Adleman, Ronald Rivest, and Adi Shamir | Co-created RSA, a practical public-key cryptosystem that helped establish modern cryptography. | [10-adleman-rivest-shamir.jpg](backgrounds/10-adleman-rivest-shamir.jpg) |
+| Anders Hejlsberg | Created Turbo Pascal, served as chief architect of Delphi, designed C#, and led the architecture of TypeScript. | [12-anders-hejlsberg.jpg](backgrounds/12-anders-hejlsberg.jpg) |
 
 The research was cross-checked against institutional histories and profiles:
 
@@ -36,6 +37,7 @@ The research was cross-checked against institutional histories and profiles:
 - [MIT CSAIL — Barbara Liskov](https://www.csail.mit.edu/person/barbara-liskov)
 - [MIT News — RSA public-key cryptography](https://news.mit.edu/1997/rsa)
 - [ACM — Leonard Adleman oral history](https://amturing.acm.org/pdf/AdlemanTuringTranscript.pdf)
+- [Microsoft — Anders Hejlsberg, TypeScript](https://devblogs.microsoft.com/typescript/author/andersh/)
 
 ## Source portrait credits
 
@@ -50,11 +52,13 @@ The research was cross-checked against institutional histories and profiles:
 | Dennis Ritchie | [Dennis Ritchie (right) Receiving Japan Prize.jpeg](https://commons.wikimedia.org/wiki/File:Dennis_Ritchie_(right)_Receiving_Japan_Prize.jpeg) | Denise Panyik-Dale | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 | Barbara Liskov | [Barbara Liskov MIT computer scientist 2010.jpg](https://commons.wikimedia.org/wiki/File:Barbara_Liskov_MIT_computer_scientist_2010.jpg) | Kenneth C. Zirkel | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Leonard Adleman, Ronald Rivest, and Adi Shamir | [2017-08-Ron Rivest Adi Shamir and Len Adleman on CRYPTO 2017 in UCSB.jpg](https://commons.wikimedia.org/wiki/File:2017-08-Ron_Rivest_Adi_Shamir_and_Len_Adleman_on_CRYPTO_2017_in_UCSB.jpg) | Author not specified on the Commons page | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| Anders Hejlsberg | — | Contributor artwork by Allan Melsen | — |
 
 ## Generation notes
 
-- All nine added wallpapers are JPEGs at 6144×4096 in the `backgrounds/` directory.
+- All ten added wallpapers are JPEGs at 6144×4096 in the `backgrounds/` directory.
 - The generated art was produced with the built-in ImageGen workflow using the original wallpaper as a style reference and the credited portrait as an identity reference.
 - Technical motifs were tailored to each person's contribution; captions were composited afterward with Liberation Sans for accurate text.
 - Every caption is drawn from one spec (Liberation Sans Bold 224pt name, Regular 52pt tracked subtitle, shared colors and baseline), the paper is matched to one tone, and the paper and diagrams were upscaled with Real-ESRGAN while the portraits keep their original pixels.
 - Grace Hopper (`2-grace-hopper.jpg`) is contributor artwork by [TechLuddite](https://github.com/TechLuddite): a graphite-style AI portrait of the younger, smiling Lt. Hopper based on a 1944–45 Smithsonian photograph, with the series' moth, logbook, and punched-tape motifs. The Smithsonian collection does not establish an open license for that photograph, so its reuse rights remain unresolved.
+- Anders Hejlsberg (`12-anders-hejlsberg.jpg`) is contributor artwork by Allan Melsen in the series' ink-on-aged-paper style, with technical motifs for Turbo Pascal, Delphi, C#, and TypeScript. It was supplied at 1536×1024 and upscaled to 6144×4096 (Real-ESRGAN x4plus for the paper and diagrams, Lanczos for the portrait), so it does not follow the shared caption spec and has less native detail than the rest of the set.
